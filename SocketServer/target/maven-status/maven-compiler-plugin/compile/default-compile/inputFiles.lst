@@ -1,0 +1,15 @@
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/server/ClientListener.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/models/Message.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/server/Server.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/UsersRepository.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/app/Main.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/config/SocketApplicationConfig.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/CrudRepository.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/MessageRepositoryImpl.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/services/MessageService.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/services/UsersService.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/services/UsersServiceImpl.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/models/User.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/UsersRepositoryImpl.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/MessageRepository.java
+/Users/rriddler/Desktop/Chat/SocketServer/src/main/java/edu/school21/sockets/services/MessageServiceImpl.java
